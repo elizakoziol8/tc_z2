@@ -16,6 +16,6 @@ przechowywane w folderach .config, lecz ich wartości są przechowywane w pliku 
   <img src="images/prod/2.png" />
   <img src="images/1.png" />
   <img src="images/2.png" />
-  <img src="images/3.png" />
+  <img src="images/4.png" />
   
 </p
