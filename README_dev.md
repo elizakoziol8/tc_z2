@@ -8,5 +8,5 @@ Plik docker-compose.dev.yml pozwala na uruchomienie usługi w fazie rozwojowej. 
 </p>
 
 <p align="center">
- <img src="images/dev/1">
+![alt text](https://github.com/[elizakoziol8]/[tc_z2]/blob/[main]/1.jpg?raw=true)
 </p>
