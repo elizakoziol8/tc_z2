@@ -13,5 +13,8 @@ Plik docker-compose.dev.yml pozwala na uruchomienie usługi w fazie rozwojowej. 
   <img src="images/dev/4.png" />
   <img src="images/dev/5.png" />
   <img src="images/dev/6.png" />
+   <img src="images/1.png" />
+  <img src="images/2.png" />
+  <img src="images/4.png" />
   
 </p>
