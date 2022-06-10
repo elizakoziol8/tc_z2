@@ -17,6 +17,6 @@
       <b>Nginx</b><br></br>
       Obie wersje są identyczne. Instalacja serweru ngnix. Plik z domyślną konfiguracją jest przeniesiony do katalogu "/etc/nginx/http.d/".<br></br>
       <b>Client</b><br></br>
-      Dockerfile rozwojowy nie różni się od przykładowego. Natomiast w produkcyjnym zastosowano budowanie wieloetapowe w celu próby zmimejszenia rozmiaru obrazu.<br></br>
+      Dockerfile rozwojowy nie różni się od przykładowego. Natomiast w produkcyjnym zastosowano budowanie wieloetapowe w celu próby zmniejszenia rozmiaru obrazu.
       Stage1 zawiera budowanie aplikacji, a w stage2 następuje instalacja, konfiguracja serweru nginx i kopiowanie aplikacji z stage1.
       </p>
