@@ -12,7 +12,7 @@ function App() {
         <header className="App-header">
           Realizacja zadania nr 2 w ramach laboratorium TCh <br />
           Eliza Kozioł
-          <Link to="/evaluategs">Kalkulator ciągu geometrycznego</Link>
+          <Link to="/evaluategs">Kalkulator ciągu geometrycznego GS Cal</Link>
           <Link to="/docs">Documentation</Link>
         </header>
         <div>
