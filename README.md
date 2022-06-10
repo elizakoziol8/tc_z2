@@ -1,5 +1,5 @@
-<p>Opracowana usługa bazuje na dostarczonym przykładzie.<br></br>
-      Aby uzyskać wynik należy odświeżyć stronę.</p>
+<p>Opracowana usługa bazuje na dostarczonym przykładzie. Zawiera 3 strony: Home, Kalkulator ciągu geometrycznego GS Cal i stronę Documentation.<br></br>
+      Aby uzyskać wynik obliczenia należy odświeżyć stronę.</p>
       <p>Usługa możliwia obliczenie wartości k-tego wyrazu ciągu geometrycznego o współćzynniku k (k mniejsze od 30) dla pierwszego wyrazu ciągu równego 2 (worker). <br></br>
         Ponadto zostały dodane endpointy w serwerze, które umożliwiają wyświetlanie ostatnich 5 współczynników k i wyników obliczeń (server). <br></br>Współczynniki
         są przechowywane w nowej tabeli "results", która przechowuje datę i czas wstawienia rekordu. Jest to wykorzystane do sortowania najnowszych współczynników.<br></br>
