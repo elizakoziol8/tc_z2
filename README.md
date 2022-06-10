@@ -20,3 +20,5 @@
       Dockerfile rozwojowy nie różni się od przykładowego. Natomiast w produkcyjnym zastosowano budowanie wieloetapowe w celu próby zmniejszenia rozmiaru obrazu.
       Stage1 zawiera budowanie aplikacji, a w stage2 następuje instalacja, konfiguracja serweru nginx i kopiowanie aplikacji z stage1.
       </p>
+      <br>Architektura usługi:<br>
+  <img src="client/src/arch.png" />
