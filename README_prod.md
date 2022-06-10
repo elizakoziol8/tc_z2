@@ -8,7 +8,7 @@
  
  Plik produlcyjny korzysta z gotowych, zbudowanych i wrzuconych na repozytorium DockerHub obrazów.
  W pliku produkcyjnym tak samo jak w rozwojowym są dwie utworzone sieci: front i back. Dodatkowo został dodany wolumen do przechowywania danych z Postgresa. Zmienne środowiskowe są również
-przechowywane w folderach .config, lecz ich wartości są przechowywane w pliku secrets.sh, któy jest instalowany w Shellu. Stamtąd są pobierane i odpowiednie przypisywane.
+przechowywane w folderach .config, lecz ich wartości są przechowywane w pliku secrets.sh, któy jest instalowany w Shellu. Stamtąd są pobierane i odpowiednio przypisywane do zmiennych.
 
 </p>
     
