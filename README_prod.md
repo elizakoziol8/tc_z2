@@ -3,7 +3,7 @@
   docker build -t ek00/zad2:nazwa_obrazu* -f Dockerfile .<br>
   docker push ek00/zad2:nazwa_obrazu*<br>
   . secrets.sh<br>
-  docker compose -f docker-compose.yml up<br><b>
+  docker compose -f docker-compose.yml up<br></b>
   *nazwa_obrazu=client_prod/server_prod/nginx_prod/worker_prod
  
  Plik produlcyjny korzysta z gotowych, zbudowanych i wrzuconych na repozytorium DockerHub obrazów.
